@@ -1,2 +1,2 @@
-# dadni_resolusi
+# dandi_resolusi
 Repositori untuk belajar menggunakan github
